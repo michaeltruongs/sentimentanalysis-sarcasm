@@ -1,4 +1,4 @@
-# nlp-boys
+# nlp-boys - this was the name of my group
 
 This is the nlp-boys implementation of the sarcasm classification model. We have implemented a modified version of the dataset and LSTM code from HW 3 for our model and training loop.
 
